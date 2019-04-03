@@ -13,7 +13,7 @@ ARTS 是 Algorithm、Review、Tip、Share 的简写
 
 ## 第一周（2019年4月1日2019年4月7日）
 
-* algorithm：[二叉树遍历](https://github.com/Elijahlz/lz-ARTS-study/blob/master/algorithm/binary%20tree/searchBinaryTree.md)  
+* algorithm：[二叉树遍历](https://github.com/Elijahlz/lz-ARTS-study/blob/master/Algorithm/searchBalanceTree.md)  
 * Review：  
   英文大部分都还给老师了。。。，看了一些，争取后续全部读懂，是说不靠字典。。。  
   [交流](http://www.catb.org/~esr/faqs/smart-questions.html)
