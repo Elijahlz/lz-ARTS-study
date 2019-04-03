@@ -16,4 +16,6 @@ ARTS 是 Algorithm、Review、Tip、Share 的简写
 * algorithm：[二叉树遍历](https://github.com/Elijahlz/lz-ARTS-study/blob/master/algorithm/binary%20tree/searchBinaryTree.md)  
 * Review：  
 * Tip：  
-* [分享相关高可用架构文章，目前是转载大神的，后期理解会自己写自己的心得和笔记]：https://www.jianshu.com/p/8419dacbbc09
+* Share :  
+分享相关高可用架构文章，目前是转载大神的，后期理解会自己写自己的心得和笔记:  
+[高可用架构](https://www.jianshu.com/p/8419dacbbc09)
