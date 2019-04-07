@@ -30,9 +30,7 @@ ARTS 是 Algorithm、Review、Tip、Share 的简写
 ## 第二周（2019年4月1日2019年4月7日）
 
 * algorithm：[链表](https://github.com/Elijahlz/lz-ARTS-study/blob/master/Algorithm/linkedList.md)  
-* Review：  
-  英文大部分都还给老师了。。。，看了一些，争取后续全部读懂，是说不靠字典。。。  
-  [交流](http://www.catb.org/~esr/faqs/smart-questions.html)
+* Review：[github](https://github.com/Elijahlz/lz-ARTS-study/blob/master/Review/github.md)
 * Tip：   
 驼峰命名法：  
 骆驼式命名法就是当变量名或函数名是由一个或多个单词连结在一起  
