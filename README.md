@@ -31,10 +31,5 @@ ARTS 是 Algorithm、Review、Tip、Share 的简写
 
 * algorithm：[链表](https://github.com/Elijahlz/lz-ARTS-study/blob/master/Algorithm/linkedList.md)  
 * Review：[github](https://github.com/Elijahlz/lz-ARTS-study/blob/master/Review/github.md)
-* Tip：   
-驼峰命名法：  
-骆驼式命名法就是当变量名或函数名是由一个或多个单词连结在一起  
-而构成的唯一识别字时，第一个单词以小写字母开始；  
-从第二个单词开始以后的每个单词的首字母都采用大写字母  
-例如：myFirstName、myLastName，这样的变量名看上去就像骆驼峰一样此起彼伏，故得名
+* Tip：[三次握手](https://github.com/Elijahlz/lz-ARTS-study/blob/master/Tip/TcpAndUdp.md)
 * Share :  [PHP的几种排序算法总结](http://note.youdao.com/noteshare?id=206e425d5ff7dd17a98456c723dad66b&sub=wcp1524463423108119)
