@@ -39,6 +39,4 @@ ARTS 是 Algorithm、Review、Tip、Share 的简写
 而构成的唯一识别字时，第一个单词以小写字母开始；  
 从第二个单词开始以后的每个单词的首字母都采用大写字母  
 例如：myFirstName、myLastName，这样的变量名看上去就像骆驼峰一样此起彼伏，故得名
-* Share :  
-分享相关高可用架构文章，目前是转载大神的，后期理解会自己写自己的心得和笔记:  
-[高可用架构](https://www.jianshu.com/p/8419dacbbc09)
+* Share :  [PHP的几种排序算法总结](http://note.youdao.com/noteshare?id=206e425d5ff7dd17a98456c723dad66b&sub=wcp1524463423108119)
