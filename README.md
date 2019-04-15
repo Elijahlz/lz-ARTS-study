@@ -33,3 +33,10 @@ ARTS 是 Algorithm、Review、Tip、Share 的简写
 * Review：[github](https://github.com/Elijahlz/lz-ARTS-study/blob/master/Review/github.md)
 * Tip：[三次握手](https://github.com/Elijahlz/lz-ARTS-study/blob/master/Tip/TcpAndUdp.md)
 * Share :  [PHP的几种排序算法总结](http://note.youdao.com/noteshare?id=206e425d5ff7dd17a98456c723dad66b&sub=wcp1524463423108119)
+
+## 第三周（2019年4月8日2019年4月14日）
+
+* algorithm：[两数之和](https://github.com/Elijahlz/lz-ARTS-study/blob/master/Algorithm/TwoSum.md)  
+* Review：[github](https://github.com/Elijahlz/lz-ARTS-study/blob/master/Review/github.md)
+* Tip：[markdown语法，转载](https://www.jianshu.com/p/191d1e21f7ed)
+* Share :  [PHP的几种排序算法总结](http://note.youdao.com/noteshare?id=206e425d5ff7dd17a98456c723dad66b&sub=wcp1524463423108119)
