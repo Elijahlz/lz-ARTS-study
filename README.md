@@ -11,7 +11,7 @@ ARTS 是 Algorithm、Review、Tip、Share 的简写
 
 ## 行动
 
-## 第一周（2019年3月25日2019年3月31日）
+## 第一周（2019年4月1日2019年4月7日）
 
 * algorithm：[二叉树遍历](https://github.com/Elijahlz/lz-ARTS-study/blob/master/Algorithm/searchBalanceTree.md)  
 * Review：  
@@ -27,14 +27,14 @@ ARTS 是 Algorithm、Review、Tip、Share 的简写
 分享相关高可用架构文章，目前是转载大神的，后期理解会自己写自己的心得和笔记:  
 [高可用架构](https://www.jianshu.com/p/8419dacbbc09)
 
-## 第二周（2019年4月1日2019年4月7日）
+## 第二周（2019年4月8日2019年4月14日）
 
 * algorithm：[链表](https://github.com/Elijahlz/lz-ARTS-study/blob/master/Algorithm/linkedList.md)  
 * Review：[github](https://github.com/Elijahlz/lz-ARTS-study/blob/master/Review/github.md)
 * Tip：[三次握手](https://github.com/Elijahlz/lz-ARTS-study/blob/master/Tip/TcpAndUdp.md)
 * Share :  [PHP的几种排序算法总结](http://note.youdao.com/noteshare?id=206e425d5ff7dd17a98456c723dad66b&sub=wcp1524463423108119)
 
-## 第三周（2019年4月8日2019年4月14日）
+## 第三周（2019年4月15日2019年4月21日）
 
 * algorithm：[L两数之和](https://github.com/Elijahlz/lz-ARTS-study/blob/master/Algorithm/TwoSum.md)  
 * Review：[github](https://github.com/Elijahlz/lz-ARTS-study/blob/master/Review/github.md)
