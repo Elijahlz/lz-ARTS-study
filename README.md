@@ -42,5 +42,5 @@ ARTS 是 Algorithm、Review、Tip、Share 的简写
 
 * algorithm：[L两数之和](https://github.com/Elijahlz/lz-ARTS-study/blob/master/Algorithm/TwoSum.md)  
 * Review：[github](https://github.com/Elijahlz/lz-ARTS-study/blob/master/Review/github.md)
-* Tip：[markdown语法，转载](https://www.jianshu.com/p/191d1e21f7ed)
+* Tip：[数据结构思维导图](https://github.com/Elijahlz/lz-ARTS-study/blob/master/src/Image/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95.png)
 * Share :  [PHP的几种排序算法总结](http://note.youdao.com/noteshare?id=206e425d5ff7dd17a98456c723dad66b&sub=wcp1524463423108119)
